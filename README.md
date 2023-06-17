@@ -1,2 +1,1 @@
-# instagram-clone-react.js
-React js instagrame homepage clone
+i have made instagram homepage clone using react js. In this project i have taken help from various website to solve problems. and i have also made this app responsive. i have made this app in about 5 days, 4-6 hrs perday. 
